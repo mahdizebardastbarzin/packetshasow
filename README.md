@@ -1,5 +1,7 @@
 # PACKETSHADOW | پکِت‌شدو
 
+![packet shadow agent](https://github.com/mahdizebardastbarzin/packetshasow/blob/main/packetshadow_agent.jpg)
+
 ## 🛡️ Security Awareness Tool | ابزار آگاهی امنیتی
 
 PACKETSHADOW is a **completely educational and awareness-focused** network security tool designed to **better understand VPN behavior, internet connection status, DNS leaks, and network routing**. This project is **not a hacking or penetration tool** and performs no malicious operations.  
@@ -239,3 +241,4 @@ This project is published **solely for educational, security awareness, and defe
 
 PACKETSHADOW is made to **help users understand when it is safe and when it is not** — not to scare, but to raise awareness.  
 PACKETSHADOW ساخته شده تا **کاربر بفهمد چه زمانی امن است و چه زمانی نیست** — نه برای ترساندن، بلکه برای آگاهی.
+
